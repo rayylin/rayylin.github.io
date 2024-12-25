@@ -21,8 +21,8 @@ Effective demand forecasting helps businesses optimize inventory, streamline pro
 ---
 #### [Demand Forecasting with Sap]
 - SAP
-<img src="./images/SapPipeline1.png?raw=true"/>
-<img src="./images/SapPipeline2.png?raw=true"/>
+<img src="./images/SapForecasting1.png?raw=true"/>
+<img src="./images/SapForecasting2.png?raw=true"/>
 This project performs a demand forecast of an electronic part. Demand forecasting is an important issue that could help businesses better allocate resources and arrange their production schedule. We have the sales data for the past two years. The product is sold in 235 locations and has 223,769 transactions. We focus on the US only. The raw data includes six columns, Location, Code, Year, Day, Sales, and Continent. We use SAP to perform demand forecasting with the Time Series model. We use Mean absolute percentage error (MAPE) to evaluate the performance. The MAPE value is 3.46%
 
 ---
