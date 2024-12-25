@@ -2,9 +2,13 @@ title: Ray Lin
 logo: "/images/bio_photo.png?raw=true" # your photo (or logo) here
 description: >
   Software Developer, LLM, Data Science
-  Programming Languages: C#, Python, JavaScript
+  <br>
+  Programming Languages: C# (.net), Python, JavaScript
+  <br>
   Database: Sql Server, Redis, MongoDB
+  <br>
   Message Queue: RabbitMQ, Azure Service Bus, Kafka
+  <br>
   Cloud: Azure, AWS
   <br>
   <br>
