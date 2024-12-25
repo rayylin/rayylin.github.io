@@ -45,6 +45,12 @@ An Inventory Management System can help companies manage their orders, inventory
 [<img src="./images/PerformanceTrack.png?raw=true"/>](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
 In this project, I created an interactive Power BI dashboard to track KPIs, analyze sales data, and improve decision-making. It visualizes actual vs. expected sales, transaction, and store data, helping identify trends and factors affecting sales. Users can drill down for detailed insights on products, salespersons, and stores.
 
+#### [Online Shopping Website with Basket Analysis](https://github.com/rayylin/RecommendationSys)
+- Python (Flask), Sql Server, JavaScript
+[![image](https://github.com/user-attachments/assets/28002e3f-34a5-4949-bc8e-6f67f159d258)](https://github.com/rayylin/RecommendationSys)
+This project builds an online store using Python Flask, featuring product browsing, category filtering, a shopping cart, and secure checkout. It integrates basket analysis with association rule mining to provide personalized product recommendations, enhancing user experience and boosting sales. The backend uses Flask with a relational database.
+
+![image](https://github.com/user-attachments/assets/b81eda1b-073e-41e3-847f-7be417ad4ae0)
 
 
 
