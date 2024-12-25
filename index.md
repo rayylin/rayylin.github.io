@@ -33,14 +33,16 @@ This project performs a demand forecast of an electronic part. Demand forecastin
 Managing maintenance plans for vehicles with thousands of parts is time-consuming. This project uses Alteryx to automate the process via a data pipeline. The model extracts data from CSV files and SQL Server, calculates vehicles needing maintenance, and forecasts upcoming maintenance demands. It updates critical information automatically each month.
 
 ---
-#### [SQL Query: Video Games Analysis](/projects/video-games.md)
-<img src="./images/video-game/video-games-golden-era-cover.gif?raw=true"/>
-When Was the Golden Era of Video Games?
+#### [Inventory Management System]
+- C#(.Net), SQL Server
+<img src="./images/InvMgn.png?raw=true"/>
+An Inventory Management System can help companies manage their orders, inventory, and customers. In this project, we use C# and .net to write an inventory management system. The system uses SQL Server as its database.
 
 ---
-#### [Python: Web Scraping Amazon Kindle Prices](/projects/WebScraping.md)
-<img src="./images/web-scraping/web-scraping.gif?raw=true"/>
-Track the things you like when their price drop
+#### [Sales Performance Tracking Dashboard](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
+- Power BI, Sql Server, Python
+<img src="./images/PerformanceTrack.png?raw=true"/>(https://github.com/rayylin/Power-BI_Purchase_order_analysis)
+In this project, I created an interactive Power BI dashboard to track KPIs, analyze sales data, and improve decision-making. It visualizes actual vs. expected sales, transaction, and store data, helping identify trends and factors affecting sales. Users can drill down for detailed insights on products, salespersons, and stores.
 
 
 
