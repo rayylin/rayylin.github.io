@@ -12,10 +12,9 @@
 
 ---
 ### Learn About My Projects
-#### [Data Engineering: Loan And Credit Card ETL Project](https://www.linkedin.com/pulse/loan-credit-card-etl-project-larry-chen-liqne/)
-[<img src="./images/Loan And Credit Card ETL Project.png?raw=true"/>](https://www.linkedin.com/pulse/loan-credit-card-etl-project-larry-chen-liqne/)
-This project showcases my skills and knowledge in managing an ETL process for Loan Application and Credit Card datasets. Using Python, Apache Spark, SQL, and various Python libraries, I demonstrated my ability to handle data extraction, transformation, loading, and visualization.
-
+#### Demand Forecasting - Service Parts in the Eletric Vehicle Industry](https://github.com/rayylin/Demand-Forecasting-Example--Service-Parts-in-the-Eletric-Vehicle-Industry)
+[<img src="./images/Loan And Credit Card ETL Project.png?raw=true"/>](https://github.com/rayylin/Demand-Forecasting-Example--Service-Parts-in-the-Eletric-Vehicle-Industry)
+Good demand forecasting could help businesses manage their inventory levels, arrange production schedules, improve ordering patterns of raw materials, and maintain healthier cash flow. I will use Time Series, XGBoost, and Lasso to forecast the demand for service parts in the Electric Vehicle Industry. Also, I will demonstrate how to perform location pooling for some expensive, rare-used parts. The risk pooling approach can put several supply-chain flows into one flow, thereby reducing demand variability. Furthermore, I will discuss how to improve forecasting accuracy and perform demand forecasting when you have no historical data; in other words, how to handle supersession or NPI projects.
 ---
 #### [Machine Learning: Flight Prices Predication](/projects/FlightPricesPred.md)
 <img src="./images/fligh-price-pred/flight-price-pred.gif?raw=true"/>
