@@ -12,7 +12,7 @@
 
 ---
 ### Learn About My Projects
-#### [Demand Forecasting - Service Parts in the Eletric Vehicle Industry](https://github.com/rayylin/Demand-Forecasting-Example--Service-Parts-in-the-Eletric-Vehicle-Industry/))
+#### [Demand Forecasting - Service Parts in the Eletric Vehicle Industry](https://github.com/rayylin/Demand-Forecasting-Example--Service-Parts-in-the-Eletric-Vehicle-Industry/)
 - Python, Sql Server, 
 [<img src="./images/Forecasting.png?raw=true"/>](https://github.com/rayylin/Demand-Forecasting-Example--Service-Parts-in-the-Eletric-Vehicle-Industry)
 
