@@ -7,7 +7,7 @@ description: >
   <br>
   Database: Sql Server, Redis, MongoDB
   <br>
-  Message Queue: RabbitMQ, Azure Service Bus, Kafka
+  MQ: RabbitMQ, Azure Service Bus, Kafka
   <br>
   Cloud: Azure, AWS
   <br>
