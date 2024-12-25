@@ -27,6 +27,13 @@ Effective demand forecasting helps businesses optimize inventory, streamline pro
 This project performs a demand forecast of an electronic part. Demand forecasting is an important issue that could help businesses better allocate resources and arrange their production schedule. We have the sales data for the past two years. The product is sold in 235 locations and has 223,769 transactions. We focus on the US only. The raw data includes six columns, Location, Code, Year, Day, Sales, and Continent. We use SAP to perform demand forecasting with the Time Series model. We use Mean absolute percentage error (MAPE) to evaluate the performance. The MAPE value is 3.46%
 
 ---
+#### [Online Shopping Website with Basket Analysis](https://github.com/rayylin/RecommendationSys)
+- Python (Flask), Sql Server, JavaScript
+[![image](https://github.com/user-attachments/assets/28002e3f-34a5-4949-bc8e-6f67f159d258)](https://github.com/rayylin/RecommendationSys)
+This project builds an online store using Python Flask, featuring product browsing, category filtering and a shopping cart. It integrates basket analysis with association rule mining to provide personalized product recommendations, enhancing user experience and boosting sales. The backend uses Flask with a relational database.
+![image](https://github.com/user-attachments/assets/b81eda1b-073e-41e3-847f-7be417ad4ae0)
+
+---
 #### Data Pipeline for Maintenance Management
 - Alterxy, SQL Server
 <img src="./images/Pipeline1.png?raw=true"/>
@@ -44,14 +51,6 @@ An Inventory Management System can help companies manage their orders, inventory
 - Power BI, Sql Server, Python
 [<img src="./images/PerformanceTrack.png?raw=true"/>](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
 In this project, I created an interactive Power BI dashboard to track KPIs, analyze sales data, and improve decision-making. It visualizes actual vs. expected sales, transaction, and store data, helping identify trends and factors affecting sales. Users can drill down for detailed insights on products, salespersons, and stores.
-
-#### [Online Shopping Website with Basket Analysis](https://github.com/rayylin/RecommendationSys)
-- Python (Flask), Sql Server, JavaScript
-[![image](https://github.com/user-attachments/assets/28002e3f-34a5-4949-bc8e-6f67f159d258)](https://github.com/rayylin/RecommendationSys)
-This project builds an online store using Python Flask, featuring product browsing, category filtering, a shopping cart, and secure checkout. It integrates basket analysis with association rule mining to provide personalized product recommendations, enhancing user experience and boosting sales. The backend uses Flask with a relational database.
-
-![image](https://github.com/user-attachments/assets/b81eda1b-073e-41e3-847f-7be417ad4ae0)
-
 
 
 
