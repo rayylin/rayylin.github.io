@@ -13,8 +13,8 @@
 ---
 ### Learn About My Projects
 #### Demand Forecasting - Service Parts in the Eletric Vehicle Industry](https://github.com/rayylin/Demand-Forecasting-Example--Service-Parts-in-the-Eletric-Vehicle-Industry)
-[<img src="./images/Loan And Credit Card ETL Project.png?raw=true"/>](https://github.com/rayylin/Demand-Forecasting-Example--Service-Parts-in-the-Eletric-Vehicle-Industry)
-Good demand forecasting could help businesses manage their inventory levels, arrange production schedules, improve ordering patterns of raw materials, and maintain healthier cash flow. I will use Time Series, XGBoost, and Lasso to forecast the demand for service parts in the Electric Vehicle Industry. Also, I will demonstrate how to perform location pooling for some expensive, rare-used parts. The risk pooling approach can put several supply-chain flows into one flow, thereby reducing demand variability. Furthermore, I will discuss how to improve forecasting accuracy and perform demand forecasting when you have no historical data; in other words, how to handle supersession or NPI projects.
+[<img src="./images/Forecasting.png?raw=true"/>](https://github.com/rayylin/Demand-Forecasting-Example--Service-Parts-in-the-Eletric-Vehicle-Industry)
+Effective demand forecasting helps businesses optimize inventory, streamline production, improve raw material orders, and maintain cash flow. I will use Time Series, XGBoost, and Lasso to forecast service part demand in the Electric Vehicle industry. Additionally, I’ll demonstrate location pooling for rare, costly parts to reduce demand variability through risk pooling. Finally, I will explore methods to enhance forecasting accuracy and address demand forecasting challenges for supersession or NPI projects with no historical data.
 ---
 #### [Machine Learning: Flight Prices Predication](/projects/FlightPricesPred.md)
 <img src="./images/fligh-price-pred/flight-price-pred.gif?raw=true"/>
