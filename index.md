@@ -30,8 +30,11 @@ This project performs a demand forecast of an electronic part. Demand forecastin
 #### [Online Shopping Website with Basket Analysis](https://github.com/rayylin/RecommendationSys)
 - Python (Flask), Sql Server, JavaScript
 [![image](https://github.com/user-attachments/assets/28002e3f-34a5-4949-bc8e-6f67f159d258)](https://github.com/rayylin/RecommendationSys)
-This project builds an online store using Python Flask, featuring product browsing, category filtering and a shopping cart. It integrates basket analysis with association rule mining to provide personalized product recommendations, enhancing user experience and boosting sales. The backend uses Flask with a relational database.
+This project builds an online store using Python Flask, featuring product browsing, category filtering and a shopping cart. It integrates basket analysis with association rule mining to provide personalized product recommendations, enhancing user experience and boosting sales. The backend uses Flask with a relational database. 
 ![image](https://github.com/user-attachments/assets/b81eda1b-073e-41e3-847f-7be417ad4ae0)
+To improve user experience, there is a virtual asssitant could answer customers' question.
+![image](https://github.com/user-attachments/assets/519f25fa-7715-4ad6-8ebf-dab194d7e5a4)
+
 
 ---
 #### Data Pipeline for Maintenance Management
