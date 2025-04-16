@@ -48,7 +48,7 @@ Managing maintenance plans for vehicles with thousands of parts is time-consumin
 
 ---
 #### Inventory Management System
-- C#(.Net), SQL Server
+- C#(.Net winForm), SQL Server
 <img src="./images/InvMgn.png?raw=true"/>
 An Inventory Management System can help companies manage their orders, inventory, and customers. In this project, we use C# and .net to write an inventory management system. The system uses SQL Server as its database.
 
