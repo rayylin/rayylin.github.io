@@ -51,6 +51,8 @@ Managing maintenance plans for vehicles with thousands of parts is time-consumin
 <img src="./images/InvMgn.png?raw=true"/>
 An Inventory Management System can help companies manage their orders, inventory, and customers. In this project, we use C# and .net to write an inventory management system. The system uses SQL Server as its database.
 
+![image](https://github.com/user-attachments/assets/15bc2b2d-c8f8-419a-ae1b-f62bdc38aea4)
+
 ---
 #### [Sales Performance Tracking Dashboard](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
 - Power BI, Sql Server, Python
