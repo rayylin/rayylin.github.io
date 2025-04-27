@@ -34,7 +34,6 @@ This project builds an online store using Python Flask, featuring product browsi
 ![image](https://github.com/user-attachments/assets/b81eda1b-073e-41e3-847f-7be417ad4ae0)
 
 To improve user experience, there is a virtual asssitant could answer customers' question. The assistant will perform RAG (Retrieval-augmented generation), so customers could asks questions about product details in the store. For example, customer could ask the assistant where is the food section, and the chatbot would answer the question based on the store location.
-![image](https://github.com/user-attachments/assets/519f25fa-7715-4ad6-8ebf-dab194d7e5a4)
 ![image](https://github.com/user-attachments/assets/e4166147-6342-481a-9c7e-fc4808b4bc21)
 
 
