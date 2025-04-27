@@ -27,7 +27,7 @@ Effective demand forecasting helps businesses optimize inventory, streamline pro
 This project performs a demand forecast of an electronic part. Demand forecasting is an important issue that could help businesses better allocate resources and arrange their production schedule. We have the sales data for the past two years. The product is sold in 235 locations and has 223,769 transactions. We focus on the US only. The raw data includes six columns, Location, Code, Year, Day, Sales, and Continent. We use SAP to perform demand forecasting with the Time Series model. We use Mean absolute percentage error (MAPE) to evaluate the performance. The MAPE value is 3.46%
 
 ---
-#### [Online Shopping Website with Basket Analysis](https://github.com/rayylin/RecommendationSys)
+#### [Online Shopping Website with Basket Analysis - with RAG chatbot](https://github.com/rayylin/RecommendationSys)
 - Python (Flask), Sql Server, JavaScript
 [![image](https://github.com/user-attachments/assets/28002e3f-34a5-4949-bc8e-6f67f159d258)](https://github.com/rayylin/RecommendationSys)
 This project builds an online store using Python Flask, featuring product browsing, category filtering and a shopping cart. It integrates basket analysis with association rule mining to provide personalized product recommendations, enhancing user experience and boosting sales. The backend uses Flask with a relational database. 
@@ -59,5 +59,8 @@ An Inventory Management System can help companies manage their orders, inventory
 [<img src="./images/PerformanceTrack.png?raw=true"/>](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
 In this project, I created an interactive Power BI dashboard to track KPIs, analyze sales data, and improve decision-making. It visualizes actual vs. expected sales, transaction, and store data, helping identify trends and factors affecting sales. Users can drill down for detailed insights on products, salespersons, and stores.
 
-
+- Tableau
+[<img src=![image](https://github.com/user-attachments/assets/3d5d51f4-55a8-43dc-aeab-377e5158281b)
+/>](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
+In this project, I build an interactive dashboard to track and analyze KPIs and visualize information. The dashboard uses different plots to show the performance and trends of each product. The dashboard can also help users find abnormalities by drilling down the data to get more information. We find that the increasing costs affect the profit in Italy.
 
