@@ -50,7 +50,7 @@ Managing maintenance plans for vehicles with thousands of parts is time-consumin
 [- C#(.net core MVC, signalR, HangFire), Programmable Search Engine on GCP, OpenAI API for summary](https://github.com/rayylin/InventoryManagement)
 [![image](https://github.com/user-attachments/assets/379b487e-6d7b-47d6-84fe-4380dfdc0825)
 ](https://github.com/rayylin/InventoryManagement)
-In this project, we are going to build a inventory management system with .net core (MVC), sql server. If a product's inventory is lower than its safety stock level, the system would send an email to notify the PIC to reorder. By leveraging background jobs (could be performed by Hangfire or Sql server Agent), we could trace our inventory level on a real-time basis. If we want to implement real-time notification, we could leverage signalR. We are going to simulate customer purchase, inventory order & delevery in this case. Also, we will use openai api to perform summarization for daily sales performance.
+If a product's inventory is lower than its safety stock level, the system would send an email to notify the PIC to reorder. By leveraging background jobs (could be performed by Hangfire or Sql server Agent), we could trace our inventory level on a real-time basis. If we want to implement real-time notification, we could leverage signalR. We are going to simulate customer purchase, inventory order & delevery in this case. Also, we will use openai api to perform summarization for daily sales performance.
 - C#(.Net winForm), SQL Server
 <img src="./images/InvMgn.png?raw=true"/>
 An Inventory Management System can help companies manage their orders, inventory, and customers. In this project, we use C# and .net to write an inventory management system. The system uses SQL Server as its database.
@@ -67,3 +67,18 @@ In this project, I created an interactive Power BI dashboard to track KPIs, anal
 [![image](https://github.com/user-attachments/assets/ec3390ad-c5e2-4c01-b835-f61bc49967b1)](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
 In this project, I build an interactive dashboard to track and analyze KPIs and visualize information. The dashboard uses different plots to show the performance and trends of each product. The dashboard can also help users find abnormalities by drilling down the data to get more information. We find that the increasing costs affect the profit in Italy.
 
+#### [Material Planning]([https://github.com/rayylin/Power-BI_Purchase_order_analysis](https://github.com/rayylin/Python-Production_Planning))
+- Power BI, Sql Server, Python
+[<img src="./images/PerformanceTrack.png?raw=true"/>](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
+We cooperate with an animal food manufacturer, and they have limited storage space and are trying to maintain minimal inventory on hand. My task is to build a model for them to calculate when they should issue purchase orders. To achieve this goal, I use python to employ the Critical Path Method Algorithm to calculate the slack. The slack is how long we could delay without violating the deadline. We could order the raw materials for processes with slack later but would not delay the production schedule.
+![image](https://github.com/user-attachments/assets/9651d480-4272-43ce-94c7-65d6a4ff5edd)
+![image](https://github.com/user-attachments/assets/da56d799-52f6-4ee8-9f39-ead06089150c)
+
+
+#### [Sales Performance Tracking Dashboard](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
+- Power BI, Sql Server, Python
+[![image](https://github.com/user-attachments/assets/ead7c949-bcce-44b2-a940-54b4b804e493)
+](https://github.com/rayylin/Python-Route_Optimization_by_KNN))
+[![image](https://github.com/user-attachments/assets/d8db2b5a-9e5e-4d9f-9340-0f3bf6ba7de9)
+](https://github.com/rayylin/Python-Route_Optimization_by_KNN))
+A company now has five distribution centers (DCs) and wants to build a new one. We intend to help the company choose a location to establish a new distribution center. We want to assign warehouses of each state an appropriate DF, thereby minimizing the total distance of the network, as a longer distance implies a higher transportation cost. We have the coordinates for warehouses of each state and distribution centers. Notice that we should not change the coordinates of five existing distribution centers. We applied the KNN algorithm to minimize the total distance of the network.
