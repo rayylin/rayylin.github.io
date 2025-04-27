@@ -60,7 +60,8 @@ An Inventory Management System can help companies manage their orders, inventory
 In this project, I created an interactive Power BI dashboard to track KPIs, analyze sales data, and improve decision-making. It visualizes actual vs. expected sales, transaction, and store data, helping identify trends and factors affecting sales. Users can drill down for detailed insights on products, salespersons, and stores.
 
 - Tableau
-[<img src=![image](https://github.com/user-attachments/assets/3d5d51f4-55a8-43dc-aeab-377e5158281b)
-/>](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
+[![image](https://github.com/user-attachments/assets/a3443bdf-d188-4a19-9d60-491158baf451)](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
+
+
 In this project, I build an interactive dashboard to track and analyze KPIs and visualize information. The dashboard uses different plots to show the performance and trends of each product. The dashboard can also help users find abnormalities by drilling down the data to get more information. We find that the increasing costs affect the profit in Italy.
 
