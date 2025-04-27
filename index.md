@@ -76,7 +76,7 @@ We cooperate with an animal food manufacturer, and they have limited storage spa
 #### [Sales Performance Tracking Dashboard](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
 - Power BI, Sql Server, Python
 [![image](https://github.com/user-attachments/assets/ead7c949-bcce-44b2-a940-54b4b804e493)
-](https://github.com/rayylin/Python-Route_Optimization_by_KNN))
+](https://github.com/rayylin/Python-Route_Optimization_by_KNN)
 [![image](https://github.com/user-attachments/assets/d8db2b5a-9e5e-4d9f-9340-0f3bf6ba7de9)
-](https://github.com/rayylin/Python-Route_Optimization_by_KNN))
+](https://github.com/rayylin/Python-Route_Optimization_by_KNN)
 A company now has five distribution centers (DCs) and wants to build a new one. We intend to help the company choose a location to establish a new distribution center. We want to assign warehouses of each state an appropriate DF, thereby minimizing the total distance of the network, as a longer distance implies a higher transportation cost. We have the coordinates for warehouses of each state and distribution centers. Notice that we should not change the coordinates of five existing distribution centers. We applied the KNN algorithm to minimize the total distance of the network.
