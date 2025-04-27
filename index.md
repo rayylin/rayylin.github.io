@@ -68,12 +68,10 @@ In this project, I created an interactive Power BI dashboard to track KPIs, anal
 In this project, I build an interactive dashboard to track and analyze KPIs and visualize information. The dashboard uses different plots to show the performance and trends of each product. The dashboard can also help users find abnormalities by drilling down the data to get more information. We find that the increasing costs affect the profit in Italy.
 
 #### [Material Planning]([https://github.com/rayylin/Power-BI_Purchase_order_analysis](https://github.com/rayylin/Python-Production_Planning))
-- Power BI, Sql Server, Python
-[<img src="./images/PerformanceTrack.png?raw=true"/>](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
-We cooperate with an animal food manufacturer, and they have limited storage space and are trying to maintain minimal inventory on hand. My task is to build a model for them to calculate when they should issue purchase orders. To achieve this goal, I use python to employ the Critical Path Method Algorithm to calculate the slack. The slack is how long we could delay without violating the deadline. We could order the raw materials for processes with slack later but would not delay the production schedule.
+- Python
 ![image](https://github.com/user-attachments/assets/9651d480-4272-43ce-94c7-65d6a4ff5edd)
 ![image](https://github.com/user-attachments/assets/da56d799-52f6-4ee8-9f39-ead06089150c)
-
+We cooperate with an animal food manufacturer, and they have limited storage space and are trying to maintain minimal inventory on hand. My task is to build a model for them to calculate when they should issue purchase orders. To achieve this goal, I use python to employ the Critical Path Method Algorithm to calculate the slack. The slack is how long we could delay without violating the deadline. We could order the raw materials for processes with slack later but would not delay the production schedule.
 
 #### [Sales Performance Tracking Dashboard](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
 - Power BI, Sql Server, Python
