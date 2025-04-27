@@ -61,7 +61,5 @@ In this project, I created an interactive Power BI dashboard to track KPIs, anal
 
 - Tableau
 [![image](https://github.com/user-attachments/assets/ec3390ad-c5e2-4c01-b835-f61bc49967b1)](https://github.com/rayylin/Power-BI_Purchase_order_analysis)
-
-
 In this project, I build an interactive dashboard to track and analyze KPIs and visualize information. The dashboard uses different plots to show the performance and trends of each product. The dashboard can also help users find abnormalities by drilling down the data to get more information. We find that the increasing costs affect the profit in Italy.
 
