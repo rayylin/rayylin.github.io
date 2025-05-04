@@ -5,7 +5,7 @@ description: >
   <br>
   Programming Languages: C# (.net core mvc / .net framework webform/winform), Python, JavaScript, R
   <br>
-  Database: Sql Server, Redis (RediSearch), MongoDB (Atlas Search)
+  Database: Sql (Sql Server, MySql), Redis (RediSearch), MongoDB (Atlas Search)
   <br>
   MQ: RabbitMQ, Azure Service Bus, Kafka
   <br>
